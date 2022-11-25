@@ -1,0 +1,2 @@
+br/com/up/pokedex/BuildConfig.java
+ br.com.up.pokedex.BuildConfig
